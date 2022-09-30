@@ -1,5 +1,6 @@
 export default {
     title: 'ApertumJS',
+    base:'/apertum-doc/',
     locales: {
       /* This is where you place your general locale config */
       '/': {
